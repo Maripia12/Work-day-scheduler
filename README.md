@@ -16,6 +16,8 @@ Create a calender app that allows the user to save events for each hour of the d
 
 * When page is refreshed the text event remains saved.
 
+https://maripia12.github.io/Work-day-scheduler/
+
 
 --------
 
